@@ -1,0 +1,120 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+
+#flex {
+display : flex;   
+text-align: center;
+}
+
+
+.box {
+    border: 20px solid white;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    background-color:  #bebebe;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+
+#box2 {
+    text-align: center;
+    
+}
+
+.box4 {
+    border: 20px solid white;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    text-align: center;  
+}
+
+.box5 {
+    border: 30px solid white;
+    margin: 55px;
+    width: 500px;
+    height: 500px;
+    text-align: center; 
+    background-color: #bebebe; 
+    color: aliceblue;
+}
+
+.img {
+    margin: 0%;
+   
+}
+
+.boxL {
+    border: 10px solid white;
+    margin: auto;
+    width: 920px;
+    height: 85px;
+    text-align: right;
+    color: aliceblue;
+    background-color: #ffffff;
+  
+}
+
+ul {
+    margin: 35px auto;
+    padding: 0 20px;
+    text-align: center;
+  }
+  
+  li {
+    color: #000000;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 100px;  
+  }
+
+  li:hover {
+    color: #ef7de7;
+  }
+.love { 
+ border: 1px solid #466995;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+   
+}
+.love:hover {
+    background: #C0D6DF;
+    color: #FFF;
+  }
+  .container :hover {
+    background: #ef7de7;
+    color: #FFF;
+  }
+
+  #bas {
+
+    margin: auto;
+    width: 1330px;
+    height: 500px;
+    color: aliceblue;
+    background-color: #000000;
+  
+  }
+
+  .xo {
+
+       margin: 15px ;
+      
+  }
